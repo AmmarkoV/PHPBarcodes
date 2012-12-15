@@ -1,0 +1,10 @@
+This is a simple PHP wrapper for the excelent barcode utility   written by  Alessandro Rubini , Leonid A. Broukhis and Andrea Scopece
+
+One should install the barcode utility ( sudo apt-get install barcode )
+
+chmod 777 barcodes
+chmod 777 barcodes/last.txt
+
+
+
+
